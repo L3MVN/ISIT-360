@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #Add new application 
     "guitars",
+    "django_bootstrap5",
 ]
 
 MIDDLEWARE = [
