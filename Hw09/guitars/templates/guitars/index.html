@@ -1,0 +1,28 @@
+{% extends "guitars/base.html" %}
+{% load django_bootstrap5 %}
+
+{% block title %}|Your local guitar service needs|{% endblock %}
+
+{% block content %}
+
+
+{% if departments %}
+    {% for department in departments %}
+<p></p>
+    <div class="float-start col-sm-2">
+        <div class="card m-1" style="height: 10em">
+            <div class="card-body">
+                <h4 class="card-title">{{department.name}}</h4>
+                <h5 class="card-subtitle mb-2 text-muted">{{department.location}}</h5>
+            </div>
+        </div>
+    </div>            
+    
+    
+    {% endfor %}
+
+{% else %}
+    <p>Please tune [E-A-D-G-B-E] in soon for more captivating information.</p>
+{% endif %}
+
+{% endblock %}

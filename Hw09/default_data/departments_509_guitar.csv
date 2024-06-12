@@ -1,0 +1,31 @@
+id,name,location
+1,Manufacturing,Austin
+2,Acoustic Guitar Sales,New York
+3,Quality Control,New York
+4,Electric Guitar Sales,Berlin
+5,Bass Guitar Sales,Toronto
+6,Manufacturing,Tokyo
+7,Electric Guitar Sales,Sydney
+8,Quality Control,Sydney
+9,Custom Shop,Chicago
+10,Shipping,New York
+11,Customer Service,Berlin
+12,Electric Guitar Sales,Toronto
+13,Manufacturing,New York
+14,Bass Guitar Sales,Nashville
+15,Shipping,Berlin
+16,Acoustic Guitar Sales,New York
+17,Acoustic Guitar Sales,Austin
+18,Custom Shop,Sydney
+19,Electric Guitar Sales,Toronto
+20,Electric Guitar Sales,Sydney
+21,Repair,Nashville
+22,Quality Control,Nashville
+23,Shipping,Nashville
+24,Repair,Chicago
+25,Repair,Chicago
+26,Custom Shop,New York
+27,Shipping,Berlin
+28,Online Sales,Toronto
+29,Shipping,Chicago
+30,Custom Shop,Sydney
